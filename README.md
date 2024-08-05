@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, yo soy Lucas Gresia</h1>
-<h3 align="center">Soy un desarrollador enfocado en la parte del Front End</h3>
+<h3 align="center">Soy un programador enfocado en el desarrollo web - Front End</h3>
 
 - 💬 Ask me about **HTML, CSS3, JavaScript**
 
