@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, yo soy Lucas Gresia</h1>
 <h3 align="center">Soy un programador enfocado en el desarrollo web - Front End</h3>
 
-- 💬 Ask me about **HTML, CSS3, JavaScript**
+- 💬 Tengo conocimientos en: **HTML, CSS3, JavaScript, Bootstrap, Git**
 
-- 📫 How to reach me **lucasgresia@hotmail.com**
+- 📫 Podes contactarme por mi email: **lucasgresia@hotmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">También te comparto mi perfil de LinkedIn</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lucas gresia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas gresia" height="30" width="40" /></a>
 </p>
