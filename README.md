@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, yo soy Lucas Gresia</h1>
 <h3 align="center">Soy un programador enfocado en el desarrollo web - Front End</h3>
 
-- 💬 Tengo conocimientos en: **HTML, CSS3, JavaScript, Bootstrap, Git**
+- 💬 Tengo conocimientos en: **HTML, CSS3, JavaScript, Bootstrap y Git**
 
 - 📫 Podes contactarme por mi email: **lucasgresia@hotmail.com**
 
